@@ -1,1 +1,3 @@
-# Exploratory-Data-Analysis
+Exploratory data analysis (EDA) is a critical stage in the data analysis process that entails the initial inspection and visualisation of a dataset in order to gain insight on its key features, trends, and potential correlations among variables. Understanding the data, spotting abnormalities or outliers, and formulating hypotheses that can direct additional analysis or modeling are the main objectives of EDA. The key aspects of EDA include: data cleaning, anomaly detection, data transformation summary statistics and descriptive measures, uni-, bi-, and muiltvariant analysis, data visualisation, pattern recognition and hypothesis forming based on these findings.
+
+This task was completed using Jupyter Notebook for both movies.csv and automobile data sets respectively by creating an in-depth EDA report for both in .docx format.
